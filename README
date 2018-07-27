@@ -1,4 +1,4 @@
 
 ##
 
-一个Json rpc 扩展。使用http作为通信协议。而不是通过socket通信。
+一个Json rpc 扩展。
